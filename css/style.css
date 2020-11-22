@@ -1,0 +1,33 @@
+
+.header_top_area {
+	background-color: #a0f8b6;
+	padding: 10px;
+}
+.phone {
+	font-size: 30px;
+	color: #2a4775;
+	float: right;
+	text-align: right;
+}
+.navigation_area {
+	background-color: #8be9bd;
+}
+li {
+	display: inline;
+}
+a {
+	padding: 10px;
+	border-right: 1px solid #f0cece;
+	color: #067f68;
+}
+.content.content_text {
+	background-color: #21d6ac;
+	padding: 10px;
+}
+.aside.sidebar {
+	background-color: #7cdb9c;
+	padding: 10px;
+}
+.footer_area {
+	background-color: #3dbd99;
+}
